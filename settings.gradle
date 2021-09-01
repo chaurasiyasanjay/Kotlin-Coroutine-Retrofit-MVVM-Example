@@ -1,2 +1,3 @@
-rootProject.name='TrueFan Sample App'
-include ':app'
+rootProject.name='Retrofit Coroutine MVVM Sample'
+include ':retrofit_coroutine_mvvm_sample'
+include ':androiddaggerhilt'
